@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_one">1-How many days in the week?</string>
+    <string name="question_one_ans">7</string>
+
+    <string name="question_two">2-How many players in each football team?</string>
+    <string name="question_two_ans">11</string>
+
+    <string name="question_three">3-How many days in the year?</string>
+    <string name="question_three_ch1">350</string>
+    <string name="question_three_ch2">365</string>
+    <string name="question_three_ch3">375</string>
+    <string name="question_three_ch4">380</string>
+
+    <string name="question_four">4-Chech all numbers which divisible by 5</string>
+    <string name="question_four_ch1">125</string>
+    <string name="question_four_ch2">112</string>
+    <string name="question_four_ch3">165</string>
+    <string name="question_four_ch4">131</string>
+
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="submit">submit</string>
+    <string name="age_hint">Enter Your Age</string>
+</resources>
